@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Samuel Balogh
+# Hi there! 👋 I'm Sam
 
 I'm a software engineer who loves building things that make a difference. Currently based in Budapest, Hungary, I spend my days crafting elegant solutions to complex problems and my nights exploring new technologies that catch my eye.
 
