@@ -8,7 +8,7 @@ Right now, I'm pouring my creative energy into [cards.samu.space](http://cards.s
 
 ## Professional Journey 🛠️
 
-My path in tech has been an exciting journey of continuous learning and growth. I've worn many hats – from being a backend engineer crafting efficient APIs to leading teams and architecting scalable solutions. I've had the privilege of working with various technologies and frameworks, but what really drives me is the opportunity to build systems that make a meaningful impact.
+My path in tech has been an exciting journey of continuous learning and growth. I've had the privilege of working with anazing ad inspirig people, using various technologies and frameworks, and what drives me is the opportunity to build systems that make a meaningful impact.
 
 ### Technical Expertise
 
