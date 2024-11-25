@@ -37,7 +37,4 @@ I'm always excited to collaborate on interesting projects or just have a good te
 - 🌐 Personal site: [samu.space](https://samu.space)
 - 🎯 Latest project: [cards.samu.space](http://cards.samu.space)
 
----
-
-*"The best way to predict the future is to create it." - Peter Drucker*
 
